@@ -1,0 +1,2 @@
+4- Código usado: justify-content: space-between; (Itens se alinham com distância igual entre eles.)
+

@@ -1,0 +1,2 @@
+19- Código usado: flex-direction: column; (Itens são posicionados de cima para baixo.)
+                               flex-wrap: wrap; (Itens se separam em linhas adicionais.)

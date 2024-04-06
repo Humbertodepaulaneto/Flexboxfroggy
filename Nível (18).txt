@@ -1,0 +1,1 @@
+18- Código usado: flex-wrap: wrap; (Itens se separam em linhas adicionais.)

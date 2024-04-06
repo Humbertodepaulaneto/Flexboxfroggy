@@ -1,0 +1,4 @@
+24- Código usado: flex-wrap: wrap-reverse; (Itens se separam em linhas adicionais em reverso.)
+                              flex-direction: column-reverse; (Itens são posicionados de baixo para cima.)
+                              justify-content: center; (Itens se alinham no centro do container.)
+                             align-content: space-between; (Linhas são posicionadas com espaço igual entre elas.)

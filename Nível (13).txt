@@ -1,0 +1,3 @@
+13- Código usado: flex-direction: row-reverse; (Itens são posicionados na direção oposta à do texto.)
+                               justify-content: center; (Itens se alinham no centro do container.)
+                               align-items: flex-end; (Itens se alinham na parte de baixo do container.)

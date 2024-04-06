@@ -1,0 +1,2 @@
+23- Código usado: flex-direction: column-reverse; (Itens são posicionados de baixo para cima.)
+                              align-content: center; (Linhas são agrupadas no centro vertical do container.)

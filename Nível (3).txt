@@ -1,0 +1,1 @@
+3- Código usado: justify-content: space-around; (Itens se alinham com distância igual em torno deles.)

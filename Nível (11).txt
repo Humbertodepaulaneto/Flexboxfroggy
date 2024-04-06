@@ -1,0 +1,2 @@
+11- Código usado: flex-direction: column; (Itens são posicionados de cima para baixo.)
+                              justify-content: flex-end; (Itens se alinham à direita do container.)

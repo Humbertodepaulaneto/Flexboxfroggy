@@ -1,0 +1,1 @@
+2- Código usado: justify-content: center; (Itens se alinham no centro do container.)

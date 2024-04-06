@@ -1,0 +1,1 @@
+16- Código usado: align-self: flex-end; (Item específico se alinha na parte de baixo do container.)

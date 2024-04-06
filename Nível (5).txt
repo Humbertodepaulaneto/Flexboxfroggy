@@ -1,0 +1,1 @@
+5- Código usado: align-items: flex-end; (Itens se alinham na parte de baixo do container.)

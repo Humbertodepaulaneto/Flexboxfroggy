@@ -1,0 +1,1 @@
+8- Código usado: flex-direction: row-reverse; (Itens são posicionados na direção oposta à do texto.)

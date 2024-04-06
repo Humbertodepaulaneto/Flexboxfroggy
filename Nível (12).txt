@@ -1,0 +1,2 @@
+12- Código usado: flex-direction: column-reverse; (Itens são posicionados de baixo para cima.)
+                               justify-content: space-between; (Itens se alinham com distância igual entre eles.)

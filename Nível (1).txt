@@ -1,0 +1,1 @@
+1- Código usado: justify-content: flex-end; (Itens se alinham à direita do container.)
